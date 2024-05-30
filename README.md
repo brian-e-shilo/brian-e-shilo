@@ -5,7 +5,9 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/brian-e-shilo/brian-e-shilo/assets/150653123/a49315a9-a64f-4e2d-85ec-ed6926428ff9">
 
-- 🌱 I’m currently learning **Six-Sigma, Blockchain, DeFi**
+- 🌱 I’m currently learning **Blockchain, DeFi, TOGAF**
+
+- 😁 **Lean Six Sigma, AWS, CAPM certified**
 
 - 👨‍💻 Best compile of my experiences [https://www.linkedin.com/in/brian-e-shilo/](https://www.linkedin.com/in/brian-e-shilo/)
 
