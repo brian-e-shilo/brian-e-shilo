@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Blockchain, DeFi, TOGAF**
 
-- 😁 **Lean Six Sigma, AWS, CAPM certified**
+- 😁 **Lean Six Sigma, CAPM certified**
 
 - 👨‍💻 Best compile of my experiences [https://www.linkedin.com/in/brian-e-shilo/](https://www.linkedin.com/in/brian-e-shilo/)
 
